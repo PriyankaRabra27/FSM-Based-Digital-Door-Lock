@@ -1,6 +1,6 @@
 # FSM-Based-Digital-Door-Lock
 An embedded PIN-based door lock system designed using a finite state machine.
-The fsm logic is modelled in Verilog HDL to demonstrate level implementation.
+The fsm logic is modelled in Verilog HDL and prototyped low-cost embedded solutions on ESP32.
 
 #Project Overview
 This project implements a secure door lock mechanism where access is granted on;y when correct PIN is entered.
