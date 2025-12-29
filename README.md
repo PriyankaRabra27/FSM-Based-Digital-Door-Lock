@@ -29,7 +29,13 @@ The system operates using the following states:
   Hardware Modeling:  
   - FSM logic described using Verilog HDL  
   - Represents how the same control logic can be implemented on FPGA  
-  - Included for learning and design demonstration purposes   
+  - Included for learning and design demonstration purposes
+   
+#Demo link
+[Project Demo](https://drive.google.com/file/d/1xnA1jS1-hp0pL9wrcC-nkUvl4oBBP6dQ/view?usp=drivesdk)
+[Project Demo](https://drive.google.com/file/d/15U0jUlOeIUN3lceCGRsfHp0Vr16zrGMH/view?usp=drivesdk)
+
+
 
 
 
